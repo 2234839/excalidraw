@@ -113,5 +113,6 @@
     "test:debug": "react-scripts --inspect-brk test --runInBand --no-cache",
     "test:other": "npm run prettier -- --list-different",
     "test:typecheck": "tsc"
-  }
+  },
+  "homepage": "."
 }
